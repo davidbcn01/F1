@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="practicam05" version="4">
+  <OBJECT>
+    <ID name="practicam05" mc="Standard.Package" uid="7d3f33e3-8424-48d7-b3ce-79a8e935e0f2"/>
+    <PID name="PracticaM05" mc="Standard.Project" uid="7f27fba6-95bd-4fd4-ab35-6f7d9a5b4d1d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[practicam05]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Equip" mc="Standard.Class" uid="a435ed99-7e27-4002-bebb-46ac9da011c8"/>
+        <COMPID name="+Persona" mc="Standard.Class" uid="c2459f9d-7d9b-4066-804d-5617cbba2e86"/>
+        <COMPID name="+Pilots" mc="Standard.Class" uid="a1564ce7-de3a-412c-be70-581a5b2bc747"/>
+        <COMPID name="Campionat" mc="Standard.Class" uid="6a7b0106-6164-462c-a443-4f47b2e276b1"/>
+        <COMPID name="+Enginyers" mc="Standard.Class" uid="ec26c744-01bf-43fa-86da-6ac8cc88fe94"/>
+        <COMPID name="Cotxe" mc="Standard.Class" uid="dd873dbb-f83f-4661-a9b8-60af17e775ab"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="practicam05 Class diagram" mc="Standard.ClassDiagram" uid="e1ceafd0-f587-4ca4-a00a-fa51ca4f7246"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
